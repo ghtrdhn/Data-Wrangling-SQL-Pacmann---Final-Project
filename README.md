@@ -6,7 +6,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 File code = Data Wrangling and SQL Pacmann - Exploratory Data For Business Purposes in Olist           E-commerce and Department Stores - Ramadya Tridhana R.py
 
 Database = olist.db
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+https://drive.google.com/file/d/1ZKaNrITX1YWRSTfGx-_CrvdatirG8KuM/view?usp=share_link
 
 MySQL file =
 1.olist_main.sql
